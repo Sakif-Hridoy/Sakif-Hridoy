@@ -2,11 +2,46 @@
 <h3 align="center">Frontend Web Developer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Sakif-Hridoy&color=green" alt="sakif-hridoy" /> </p>
 - 🔭 I’m currently working on Node js with Express,Mongo and React.Partially making Web/Mobile applications using React-Native,Firebase,Bootstrap,Sass
-- 🌱 I’m currently learning Angular,Material UI,Java,Docker
+- 🌱 I’m currently learning Angular,Material UI,Java,Docker.
+
 🌱I am a self-taught programmer.I have 1 years of job experience where i was introduced with wordpress and did some beautiful customization.I am doing my personal projects to get a job as software engineer.
 
-🌱Here are some of my projects--
+🌱My Personal Site--
 https://sakif-hridoy.github.io/my-working-portfolio/
+
+🌱Here are some of my projects with live links--
+1.API Project-- Track A Football Team
+live link:https://sad-kepler-d26b5b.netlify.app/
+repository link:https://github.com/Sakif-Hridoy/react-router
+
+2.Project-- Ride Share Application with authentication
+live link:https://urban-riders-5ad18.firebaseapp.com/
+repository link:https://github.com/Sakif-Hridoy/simple-rider-app
+
+3.PSD To Bootstrap
+live link:https://sakif-hridoy.github.io/PSD-to-Bootstrap/
+repository link:https://github.com/Sakif-Hridoy/PSD-to-Bootstrap
+
+4.Fancy Slider
+live link:sakif-hridoy.github.io/fancy-slider/
+repository link:https://github.com/Sakif-Hridoy/fancy-slider
+
+5.Weather Update Application
+live link:sakif-hridoy.github.io/weatherupdate/
+repository link:https://github.com/Sakif-Hridoy/weatherupdate
+
+6.Food List Application
+live link:https://sakif-hridoy.github.io/hungry-Monster/
+repository link:https://github.com/Sakif-Hridoy/hungry-Monster
+
+7.A Responsive E-commerce page with slides and product
+live link:https://sakif-hridoy.github.io/bootstrap-e-commerce-demo/
+repository link:https://github.com/Sakif-Hridoy/bootstrap-e-commerce-demo
+
+8.A Fun With CSS
+live link:https://sakif-hridoy.github.io/CSS-Basic-Ball-Bounce/
+repository link:https://github.com/Sakif-Hridoy/CSS-Basic-Ball-Bounce
+
 
 🌱I have two certifications of web development of freecodecamp.org which is something special because i solved this problems myself,everything is challenging in this course.
 🌱Responsive Web Development-- 
