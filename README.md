@@ -1,7 +1,6 @@
-<h1 align="center">Hi 👋, I'm Shakil Hasan</h1>
+<h1 align="center">Hi 👋, I'm Sakif Hridoy</h1>
 <h3 align="center">Frontend Web Developer</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Sakif-Hridoy&color=green
-"/></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Sakif-Hridoy&color=green" alt="sakif-hridoy" /> </p>
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
