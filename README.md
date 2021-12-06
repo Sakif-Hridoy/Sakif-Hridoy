@@ -23,11 +23,11 @@ live link:https://sakif-hridoy.github.io/PSD-to-Bootstrap/
 repository link:https://github.com/Sakif-Hridoy/PSD-to-Bootstrap
 
 4.Fancy Slider
-live link:sakif-hridoy.github.io/fancy-slider/
+live link:https://sakif-hridoy.github.io/fancy-slider/
 repository link:https://github.com/Sakif-Hridoy/fancy-slider
 
 5.Weather Update Application
-live link:sakif-hridoy.github.io/weatherupdate/
+live link:https://sakif-hridoy.github.io/weatherupdate/
 repository link:https://github.com/Sakif-Hridoy/weatherupdate
 
 6.Food List Application
