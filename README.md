@@ -14,7 +14,7 @@ https://sakif-hridoy.github.io/my-profile/
 live link:https://sad-kepler-d26b5b.netlify.app/
 repository link:https://github.com/Sakif-Hridoy/react-router
 
-2.Project-- Ride Share Application with authentication
+2.Project-- Ride Share Application with pop up authentication
 live link:https://urban-riders-5ad18.firebaseapp.com/
 repository link:https://github.com/Sakif-Hridoy/simple-rider-app
 
