@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sakif Hridoy</h1>
 <h3 align="center">Full Stack Web Developer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Sakif-Hridoy&color=green" alt="sakif-hridoy" /> </p>
-🔭 I’m currently working on Node with Express js,Mongo and React.Partially making Web/Mobile applications using React-Native,Firebase,Bootstrap,Sass
+🔭 I’m currently working on Node with Express js,Mongo and React.Partially making Web/Mobile applications using React-Native,Firebase,Bootstrap,Sass,Material UI
 🌱 I’m currently learning Angular,Material UI,Java,Docker.
 
 🌱I am a self-taught programmer.I have 1 years of job experience where i was introduced with wordpress and did some beautiful customization.I am doing my personal projects to get a job as software engineer.
