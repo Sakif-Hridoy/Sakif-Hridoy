@@ -3,7 +3,7 @@
 🔭 I’m currently working on Node with Express js,Mongo and React.Partially making Web/Mobile applications using React-Native,Firebase.In Both Platform i am using Bootstrap,Sass,Tailwind,Daisy UI
 🌱 I’m currently learning Laravel,Material UI,Python,Docker.
 
-🌱I am a self-taught programmer.I have 1 years of job experience where i was introduced with wordpress and did some beautiful customization.I am doing my personal projects to get a job as software engineer.
+🌱I am a self-taught programmer.I have 1 years of job experience where i was introduced with wordpress and did some beautiful customization.I am doing my personal projects to get a job as Web Developer/Full Stack Web Developer,Front-End-Developer/software engineer.
 
 🌱My Personal Site--
 https://sakif-hridoy.github.io/my-profile/
