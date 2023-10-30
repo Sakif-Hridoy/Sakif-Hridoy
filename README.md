@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sakif Hridoy</h1>
 <h3 align="center">Full Stack Web Developer (React,Node,Express,Mongo)</h3>
-🔭 I’m currently working on Node with Express js,Mongo and React.Partially making Web/Mobile applications using React-Native,Firebase,Bootstrap,Sass,Material UI
-🌱 I’m currently learning Angular,Material UI,Java,Docker.
+🔭 I’m currently working on Node with Express js,Mongo and React.Partially making Web/Mobile applications using React-Native,Firebase,Bootstrap,Sass,Tailwind,Daisy UI
+🌱 I’m currently learning Laravel,Material UI,Python,Docker.
 
 🌱I am a self-taught programmer.I have 1 years of job experience where i was introduced with wordpress and did some beautiful customization.I am doing my personal projects to get a job as software engineer.
 
