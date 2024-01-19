@@ -43,7 +43,7 @@ repository link:https://github.com/Sakif-Hridoy/bootstrap-e-commerce-demo
 
 9.A Fun With CSS
 live link:https://sakif-hridoy.github.io/CSS-Basic-Ball-Bounce/
-repository link:https://github.com/Sakif-Hridoy/CSS-Basic-Ball-Bounce
+
 
 
 🌱I have two certifications of web development of freecodecamp.org which is something special because i solved this problems myself,everything is challenging in this course.
