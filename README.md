@@ -41,8 +41,6 @@ repository link:https://github.com/Sakif-Hridoy/hungry-Monster
 live link:https://sakif-hridoy.github.io/bootstrap-e-commerce-demo/
 repository link:https://github.com/Sakif-Hridoy/bootstrap-e-commerce-demo
 
-9.A Fun With CSS
-live link:https://sakif-hridoy.github.io/CSS-Basic-Ball-Bounce/
 
 
 
