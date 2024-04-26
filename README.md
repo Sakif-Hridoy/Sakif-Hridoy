@@ -1,6 +1,6 @@
 <h1 align="center">Hi there! 👋 I'm Sakif Dewan</h1>
 <p align="center">
-<h3>A Passionate MERN Stack Developer from Bangladesh
+<h3 align="center">A Passionate MERN Stack Developer from Bangladesh
 </h3>
 </p>
 
