@@ -1,11 +1,7 @@
-<h1 align="center">Hi there! 👋 I'm [Your Name]</h1>
+<h1 align="center">Hi there! 👋 I'm Sakif Dewan</h1>
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-linkedin-profile" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin">
-  </a>
-  <a href="https://twitter.com/your-twitter-handle" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/your-twitter-handle?style=social">
-  </a>
+<h3>A Passionate MERN Stack Developer from Bangladesh
+</h3>
 </p>
 
 <p align="center">A passionate front-end developer specializing in the MERN stack, with expertise in HTML, CSS, JavaScript, React, Redux, Node.js, Express, and MongoDB.</p>
