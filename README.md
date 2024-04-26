@@ -6,8 +6,6 @@
 
 <br />
 
-🔭 I’m currently working on Hello CoderX
-
 🌱 I’m currently learning Next Js
 
 💬 Ask me about HTML, CSS, Tailwind CSS, JavaScript,React
