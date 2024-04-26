@@ -4,7 +4,16 @@
 </h3>
 </p>
 
-<p align="center">A passionate front-end developer specializing in the MERN stack, with expertise in HTML, CSS, JavaScript, React, Redux, Node.js, Express, and MongoDB.</p>
+🔭 I’m currently working on Hello CoderX
+
+🌱 I’m currently learning Next Js
+
+💬 Ask me about HTML, CSS, Tailwind CSS, JavaScript,React
+
+📫 How to reach me 
+
+📄 Know about my experiences 
+
 
 <h2 align="center">🚀 Skills</h2>
 <p align="center">
