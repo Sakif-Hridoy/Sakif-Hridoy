@@ -16,9 +16,12 @@
 
 📄 Know about my experiences 
 </p>
-
+<br />
 
 <h1>🌐 Connect with me</h1>
+<hr/>
+
+
 
 <h2 align="center">🚀 Skills</h2>
 <p align="center">
