@@ -15,6 +15,8 @@
 📄 Know about my experiences 
 
 
+🌐 Connect with me
+
 <h2 align="center">🚀 Skills</h2>
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white">
