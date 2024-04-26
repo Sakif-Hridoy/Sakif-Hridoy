@@ -18,7 +18,7 @@
 </p>
 
 
-🌐 Connect with me
+<h1>🌐 Connect with me</h1>
 
 <h2 align="center">🚀 Skills</h2>
 <p align="center">
