@@ -6,6 +6,8 @@
 
 <br />
 
+<p>
+
 🌱 I’m currently learning Next Js
 
 💬 Ask me about HTML, CSS, Tailwind CSS, JavaScript,React
@@ -13,6 +15,7 @@
 📫 How to reach me 
 
 📄 Know about my experiences 
+</p>
 
 
 🌐 Connect with me
