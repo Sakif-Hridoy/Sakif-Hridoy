@@ -5,9 +5,6 @@
 
 🌱I am a self-taught programmer.I have 1 years of job experience where i was introduced with wordpress and did some beautiful customization.I am doing my personal projects to get a job as Web Developer/Full Stack Web Developer,Front-End-Developer/software engineer.
 
-🌱My Personal Site--
-https://sakif-hridoy.github.io/my-profile/
-
 🌱Here are some of my projects with live links--
 1.API Project-- Track A Football Team
 live link:https://sad-kepler-d26b5b.netlify.app/
