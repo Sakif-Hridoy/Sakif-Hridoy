@@ -1,40 +1,29 @@
 <h1 align="center">Hi 👋, I'm Sakif Dewan</h1>
 <h3 align="center">Front End Web Developer (React,Node,Express,Mongo)</h3>
 🔭 I’m currently working on Node with Express js,Mongo and React.Partially making Web/Mobile applications using React-Native,Firebase.In Both Platform i am using Bootstrap,Sass,Tailwind,Daisy UI For Designing User Interfaces.
-🌱 I’m currently learning Laravel,Material UI,Python,Docker.
+🌱 I’m currently learning Next.js,Python,Docker.
 
 🌱I am a self-taught programmer.I have 1 years of job experience where i was introduced with wordpress and did some beautiful customization.I am doing my personal projects to get a job as Web Developer/Full Stack Web Developer,Front-End-Developer/software engineer.
 
 🌱Here are some of my projects with live links--
-1.API Project-- Track A Football Team
-live link:https://sad-kepler-d26b5b.netlify.app/
-repository link:https://github.com/Sakif-Hridoy/react-router
 
-2.Ticket Booking Project with API--Ticket Ninja
+1.Ticket Booking Project with API--Ticket Ninja
 live link:https://sakif-hridoy.github.io/ticket-ninja/
 repository link:https://github.com/Sakif-Hridoy/ticket-ninja
 
-3.Project-- Ride Share Application with pop up authentication
-live link:https://urban-riders-5ad18.firebaseapp.com/
-repository link:https://github.com/Sakif-Hridoy/simple-rider-app
-
-4.PSD To Bootstrap
+2.PSD To Bootstrap
 live link:https://sakif-hridoy.github.io/PSD-to-Bootstrap/
 repository link:https://github.com/Sakif-Hridoy/PSD-to-Bootstrap
 
-5.Fancy Slider
+3.Fancy Slider
 live link:https://sakif-hridoy.github.io/fancy-slider/
 repository link:https://github.com/Sakif-Hridoy/fancy-slider
 
-6.Weather Update Application
+4.Weather Update Application
 live link:https://sakif-hridoy.github.io/weatherupdate/
 repository link:https://github.com/Sakif-Hridoy/weatherupdate
 
-7.Food List Application
-live link:https://sakif-hridoy.github.io/hungry-Monster/
-repository link:https://github.com/Sakif-Hridoy/hungry-Monster
-
-8.A Responsive E-commerce page with slides and product
+5.A Responsive E-commerce page with slides and product
 live link:https://sakif-hridoy.github.io/bootstrap-e-commerce-demo/
 repository link:https://github.com/Sakif-Hridoy/bootstrap-e-commerce-demo
 
