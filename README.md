@@ -76,9 +76,9 @@ Here are some of my top projects showcasing my skills in **front-end development
 
 ## 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=ffffff&style=for-the-badge)](your-linkedin-url)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=ffffff&style=for-the-badge)](https://github.com/yourusername)
-[![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=ffffff&style=for-the-badge)](mailto:your-email@example.com)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=ffffff&style=for-the-badge)](your-twitter-url)
-[![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?logo=whatsapp&logoColor=ffffff&style=for-the-badge)](https://wa.me/your-whatsapp-number)
-[![Fiverr](https://img.shields.io/badge/-Fiverr-1DBF73?logo=fiverr&logoColor=ffffff&style=for-the-badge)](your-fiverr-url)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=ffffff&style=for-the-badge)](https://www.linkedin.com/in/sakif-hridoy)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=ffffff&style=for-the-badge)](https://github.com/sakif-hridoy)
+[![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=ffffff&style=for-the-badge)](mailto:sakifjobspace@gmail.com)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=ffffff&style=for-the-badge)](https://x.com/Sakif_Hridoy_25)
+[![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?logo=whatsapp&logoColor=ffffff&style=for-the-badge)](https://wa.me/+8801879800945)
+[![Fiverr](https://img.shields.io/badge/-Fiverr-1DBF73?logo=fiverr&logoColor=ffffff&style=for-the-badge)](https://www.fiverr.com/sakifhridoy25)
