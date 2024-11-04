@@ -4,11 +4,11 @@
 
 Welcome to my GitHub! 
 
-🌟 Web Development Skills
+🌟 Web Development Skills:
 I specialize in **HTML5, CSS3, Grid and Flexbox, Responsive Design, Tailwind CSS, Bootstrap, React**. I also have beginner-level knowledge in **WordPress** and am continuously expanding my skills in **PHP, Python, Node.js, and MongoDB**.
 I'm passionate about **tech innovation** and love creating optimized, user-friendly web applications.
 
-🌟 Digital Marketing Skills
+🌟 Digital Marketing Skills:
 SEO (Search Engine Optimization)
 Content Marketing
 Social Media Marketing
