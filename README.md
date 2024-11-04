@@ -2,7 +2,7 @@
 
 🌟 **Front-end Web Developer & Digital Marketing Expert**
 
-Welcome to my GitHub! I specialize in **React, Redux, Next.js, and Tailwind CSS**. I also have beginner-level knowledge in **WordPress** and am continuously expanding my skills in **PHP, Python, Node.js, and MongoDB**.
+Welcome to my GitHub! I specialize in **HTML5, CSS3, Grid and Flexbox, Responsive Design, Tailwind CSS, Bootstrap, React**. I also have beginner-level knowledge in **WordPress** and am continuously expanding my skills in **PHP, Python, Node.js, and MongoDB**.
 
 I'm passionate about **tech innovation** and love creating optimized, user-friendly web applications. Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/sakif-hridoy) and check out my **portfolio of projects below!**
 
