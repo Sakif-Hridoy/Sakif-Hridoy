@@ -5,17 +5,17 @@
 Welcome to my GitHub! 
 
 🌟 Web Development Skills:
-I specialize in **HTML5, CSS3, Grid and Flexbox, Responsive Design, Tailwind CSS, Bootstrap, React**. I also have beginner-level knowledge in **WordPress** and am continuously expanding my skills in **PHP, Python, Node.js, and MongoDB**.
+I specialize in **HTML5, CSS3, Grid and Flexbox, Responsive Design, Tailwind CSS, Bootstrap, React** etc. I also have beginner-level knowledge in **WordPress** and am continuously expanding my skills in **PHP, Python, Node.js, and MongoDB** etc.
 I'm passionate about **tech innovation** and love creating optimized, user-friendly web applications.
 
 🌟 Digital Marketing Skills:
-SEO (Search Engine Optimization)
-Content Marketing
-Social Media Marketing
-Email Marketing
-Google Analytics
-PPC (Pay-Per-Click) Advertising
-Conversion Rate Optimization (CRO)
+SEO (Search Engine Optimization),
+Content Marketing,
+Social Media Marketing,
+Email Marketing,
+Google Analytics,
+PPC (Pay-Per-Click) Advertising,
+Conversion Rate Optimization (CRO) etc
 
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/sakif-hridoy) and check out my **portfolio of projects below!**
 
