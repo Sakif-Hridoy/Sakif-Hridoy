@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Sakif Dewan
 
-🌟 **Digital Marketing Expert & Front-end Web Developer**
+🌟 **Front-end Web Developer & Digital Marketing Expert**
 
 Welcome to my GitHub! I specialize in **React, Redux, Next.js, and Tailwind CSS**. I also have beginner-level knowledge in **WordPress** and am continuously expanding my skills in **PHP, Python, Node.js, and MongoDB**.
 
