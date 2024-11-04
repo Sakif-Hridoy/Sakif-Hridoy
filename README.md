@@ -37,8 +37,7 @@ I'm passionate about **tech innovation** and love creating optimized, user-frien
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sakif-Hridoy&theme=chartreuse-dark&show_icons=true&hide_border=true&count_private=true)
 ![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=Sakif-Hridoy&theme=chartreuse-dark&hide_border=true)
-https://github-readme-stats.vercel.app/api/top-langs/?username=Sakif-Hridoy&theme=chartreuse-dark&show_icons=true&hide_border=true&layout=compact
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sakif-Hridoy&theme=chartreuse-dark&show_icons=true&hide_border=true&layout=compact" alt="Sakif-Hridoy's GitHub Stats" />
 ---
 
 ## 🎓 Certifications
