@@ -43,10 +43,9 @@ I'm passionate about **tech innovation** and love creating optimized, user-frien
 ## 🎓 Certifications
 
 - **FreeCodeCamp Certifications**:
-  - Responsive Web Design
-  - JavaScript Algorithms and Data Structures
-  - Front End Libraries
-  - [View All Certifications on FreeCodeCamp](your-freecodecamp-url)
+  - Responsive Web Design https://www.freecodecamp.org/certification/sakif-hridoy/responsive-web-design
+  - JavaScript Algorithms and Data Structures  https://www.freecodecamp.org/certification/sakif-hridoy/javascript-algorithms-and-data-structures
+  - Front End Libraries https://www.freecodecamp.org/certification/sakif-hridoy/front-end-development-libraries
 
 ---
 
@@ -71,7 +70,7 @@ Here are some of my top projects showcasing my skills in **front-end development
 ## 📚 Currently Learning
 
 - PHP and WordPress development
-- Backend technologies like Python and NoSQL databases
+- Backend technologies like django,laravel and MySQL,GraphQL,Postgresql databases
 
 ---
 
