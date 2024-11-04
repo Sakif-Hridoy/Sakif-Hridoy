@@ -35,8 +35,9 @@ I'm passionate about **tech innovation** and love creating optimized, user-frien
 
 ## 📈 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide=stars&count_private=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sakif-Hridoy&theme=chartreuse-dark&show_icons=true&hide_border=true&count_private=true)
+![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=Sakif-Hridoy&theme=chartreuse-dark&hide_border=true)
+https://github-readme-stats.vercel.app/api/top-langs/?username=Sakif-Hridoy&theme=chartreuse-dark&show_icons=true&hide_border=true&layout=compact
 
 ---
 
