@@ -60,6 +60,10 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/sakif-hri
   - JavaScript Algorithms and Data Structures  https://www.freecodecamp.org/certification/sakif-hridoy/javascript-algorithms-and-data-structures
   - Front End Libraries https://www.freecodecamp.org/certification/sakif-hridoy/front-end-development-libraries
 
+- **Semrush Certifications**:
+  - SEO Fundamentals Course: https://static.semrush.com/academy/certificates/e630b463b3/sakif-dewam_1.pdf
+  
+
 ---
 
 ## 🚀 Featured Projects
