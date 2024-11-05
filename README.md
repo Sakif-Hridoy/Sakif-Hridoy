@@ -99,6 +99,12 @@ Here are some of my top projects showcasing my skills in **front-end development
 - **Live Demo:** [Link to live project](https://sakif-hridoy.github.io/fancy-slider)
 - **Repo:** [GitHub Repo](https://github.com/Sakif-Hridoy/fancy-slider)
 
+### Project 5: Weather Update
+- **Description:** A user-friendly website that delivers real-time weather updates. Users can enter any city name worldwide to instantly view the current temperature along with weather icons for visual representation
+- **Tech Stack:** HTML, CSS, JavaScript, DOM Manipulation, Flexbox, Rest API.
+- **Live Demo:** [Link to live project](https://sakif-hridoy.github.io/weatherupdate/)
+- **Repo:** [GitHub Repo](https://github.com/Sakif-Hridoy/weatherupdate)
+
 ---
 
 ## 📚 Currently Learning
