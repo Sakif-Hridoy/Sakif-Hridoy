@@ -61,7 +61,7 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/sakif-hri
   - Front End Libraries https://www.freecodecamp.org/certification/sakif-hridoy/front-end-development-libraries
 
 - **Semrush Certifications**:
-  - SEO Fundamentals Course: https://static.semrush.com/academy/certificates/e630b463b3/sakif-dewam_1.pdf
+  - SEO Fundamentals Course: https://static.semrush.com/academy/certificates/f853c277cc/sakif-dewan_1.pdf
   
 
 ---
