@@ -70,6 +70,18 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/sakif-hri
 
 Here are some of my top projects showcasing my skills in **front-end development** and **digital marketing**:
 
+🌐 SEO & Digital Marketing Portfolio Project
+Description:
+A comprehensive digital marketing portfolio showcasing skills in SEO and content optimization. This WordPress-based project includes keyword research, on-page SEO, and content strategies tailored to improve search visibility and user engagement. Tools like SEMrush, Rank Math, and Yoast SEO were utilized, along with Google Analytics for performance tracking.
+
+Tech Stack:
+
+### Platforms & CMS: WordPress
+- **SEO & Marketing Tools:** SEMrush, Rank Math, Yoast SEO, Google Analytics
+- **Skills Applied:** Keyword research, content optimization, SEO strategy
+- **Live:** [Link to live project](https://sakifdewan.com)
+
+
 ### Project 1: Phone Hunter API
 - **Phone Hunter API allows users to search for phones by brand (Samsung or iPhone) and view a list of models with specifications. After hitting the search button, users can explore specific models, and clicking on a model opens a modal with detailed information about that phone.
 - **Tech Stack:** HTML, CSS, Javascript, Tailwind CSS, API integration,DOM Manipulation
