@@ -70,8 +70,8 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/sakif-hri
 
 Here are some of my top projects showcasing my skills in **front-end development** and **digital marketing**:
 
-🌐 SEO & Digital Marketing Portfolio Project
-Description:
+### 🌐 SEO & Digital Marketing Portfolio Project
+
 A comprehensive digital marketing portfolio showcasing skills in SEO and content optimization. This WordPress-based project includes keyword research, on-page SEO, and content strategies tailored to improve search visibility and user engagement. Tools like SEMrush, Rank Math, and Yoast SEO were utilized, along with Google Analytics for performance tracking.
 
 Tech Stack:
