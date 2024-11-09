@@ -82,7 +82,7 @@ A comprehensive digital marketing portfolio showcasing skills in SEO and content
 
 **Tech Stack:** Wordpress
 
-### Platforms & CMS: WordPress
+### Tools & Skills:
 - **SEO & Marketing Tools:** SEMRUSH, Rank Math, Yoast SEO, Google Analytics
 - **Skills Applied:** SEO, On Page SEO, Offpage SEO, Technical SEO, Kewword Analysis, Content Optimization,Wordpress Plugins Custmization
 - **Live:** [Link to live project](https://sakifdewan.com)
