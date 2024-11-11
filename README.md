@@ -62,6 +62,10 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/sakif-hri
   - JavaScript Algorithms and Data Structures  https://www.freecodecamp.org/certification/sakif-hridoy/javascript-algorithms-and-data-structures
   - Front End Libraries https://www.freecodecamp.org/certification/sakif-hridoy/front-end-development-libraries
 
+### 🌐 Google Analytics Certifications
+
+- **Google Analytics Certifications**:
+  - Google Analytics: https://skillshop.credential.net/a9c9448d-48a3-4610-bd2d-47d751f318e4
 
 ### 🌐 SEO & Digital Marketing Certifications
 
