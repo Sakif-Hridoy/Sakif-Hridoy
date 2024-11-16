@@ -62,7 +62,7 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/sakif-hri
 - **FreeCodeCamp Certifications**:
   - Responsive Web Design https://www.freecodecamp.org/certification/sakif-hridoy/responsive-web-design
   - JavaScript Algorithms and Data Structures  https://www.freecodecamp.org/certification/sakif-hridoy/javascript-algorithms-and-data-structures
-  - Front End Libraries https://www.freecodecamp.org/certification/sakif-hridoy/front-end-development-libraries
+  - Front End Development Libraries https://www.freecodecamp.org/certification/sakif-hridoy/front-end-development-libraries
 
 ### 🌐 Google Analytics Certifications
 
