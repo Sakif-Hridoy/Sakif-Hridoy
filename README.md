@@ -88,7 +88,7 @@ A comprehensive digital marketing portfolio showcasing skills in SEO and content
 
 ### Tools & Skills:
 - **SEO & Marketing Tools:** SEMRUSH, Rank Math, Yoast SEO, Google Analytics, Google Trends, Google Tag Manager, Facebook Pixel
-- **Skills Applied:** SEO, On Page SEO, Off Page SEO, Technical SEO, Kewword Analysis, Content Optimization, Wordpress Plugins Customization, Data Driven Marketing and Analysis
+- **Skills Applied:** SEO, On Page SEO, Off Page SEO, Technical SEO, Keyword Analysis, Content Optimization, Wordpress Plugins Customization, Data Driven Marketing and Analysis
 - **Live:** [Link to live project](https://sakifdewan.com)
 -**Main keyword:** - sakif dewan, digial marketing specialist
 
