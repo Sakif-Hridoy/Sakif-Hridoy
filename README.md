@@ -87,10 +87,11 @@ A comprehensive digital marketing portfolio showcasing skills in SEO and content
 **Tech Stack:** Wordpress
 
 ### Tools & Skills:
-- **SEO & Marketing Tools:** SEMRUSH, Rank Math, Yoast SEO, Google Analytics
-- **Skills Applied:** SEO, On Page SEO, Offpage SEO, Technical SEO, Kewword Analysis, Content Optimization,Wordpress Plugins Customization
+- **SEO & Marketing Tools:** SEMRUSH, Rank Math, Yoast SEO, Google Analytics, Google Trends, Google Tag Manager, Facebook Pixel
+- **Skills Applied:** SEO, On Page SEO, Off Page SEO, Technical SEO, Kewword Analysis, Content Optimization, Wordpress Plugins Customization, Data Driven Marketing and Analysis
 - **Live:** [Link to live project](https://sakifdewan.com)
 -**Main keyword:** - sakif dewan, digial marketing specialist
+
 
 
 
@@ -140,8 +141,8 @@ A comprehensive digital marketing portfolio showcasing skills in SEO and content
 
 ## 📚 Currently Learning
 
-- PHP and WordPress development
-- Backend technologies like django,laravel and MySQL,GraphQL,Postgresql databases
+- PHP and WordPress development, Framer Motion, Next JS, Redux
+- Backend technologies like Django, Laravel and MySQL, GraphQL, Postgresql Databases
 
 ---
 
