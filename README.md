@@ -23,7 +23,7 @@ Google Analytics,
 PPC (Pay-Per-Click) Advertising,
 Conversion Rate Optimization (CRO) etc**
 
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/sakif-hridoy) and check out my **portfolio of projects below!**
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/sakif-hridoy) and check out my **skills and projects!**
 
 ---
 
