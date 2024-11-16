@@ -16,7 +16,7 @@ Meta Business Suite,
 Email Marketing,
 Google Analytics,
 PPC (Pay-Per-Click) Advertising,
-Conversion Rate Optimization (CRO) etc**
+Conversion Rate Optimization (CRO) etc.**
 
 **I am continuously learning and expanding** my skills in **PHP and WordPress development, Typescript, Framer Motion, Next JS, Redux, Backend Technologies like Django, Laravel and MySQL, GraphQL, Postgresql Databases,Mongoose, Microservices etc.**
 **I am also currently learning Advanced eCommerce SEO (for platforms like Amazon, Walmart, Shopify), Google Ads (PPC campaigns), Google Display Network (GDN), Google My Business (GMB), YouTube Ads, Email Marketing etc.**
