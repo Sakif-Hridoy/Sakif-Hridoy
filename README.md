@@ -12,6 +12,7 @@ I'm passionate about **tech innovation** and love creating optimized, user-frien
 
 🌟 Digital Marketing Skills:
 SEO (Search Engine Optimization),
+Site Audit, 
 Content Marketing,
 Social Media Marketing,
 Email Marketing,
