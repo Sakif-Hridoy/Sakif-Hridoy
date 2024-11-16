@@ -142,7 +142,7 @@ A comprehensive digital marketing portfolio showcasing skills in SEO and content
 ## 📚 Currently Learning
 
 - PHP and WordPress development, Framer Motion, Next JS, Redux
-- Backend technologies like Django, Laravel and MySQL, GraphQL, Postgresql Databases
+- Backend Technologies like Django, Laravel and MySQL, GraphQL, Postgresql Databases, Microservices
 - Advanced eCommerce SEO (for platforms like Amazon, Walmart, Shopify), Google Ads (PPC campaigns), Google Display Network (GDN), Google My Business, YouTube Ads, Email Marketing
 
 ---
