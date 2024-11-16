@@ -13,7 +13,7 @@ I specialize in **HTML5, CSS3, Grid and Flexbox, Responsive Design, Tailwind CSS
 I'm passionate about **tech innovation** and love creating optimized, user-friendly web applications.
 
 🌟 Digital Marketing Skills:
-SEO (Search Engine Optimization),
+**SEO (Search Engine Optimization),
 Site Audit, 
 Content Marketing,
 Social Media Marketing,
@@ -21,7 +21,7 @@ Meta Business Suite,
 Email Marketing,
 Google Analytics,
 PPC (Pay-Per-Click) Advertising,
-Conversion Rate Optimization (CRO) etc
+Conversion Rate Optimization (CRO) etc**
 
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/sakif-hridoy) and check out my **portfolio of projects below!**
 
