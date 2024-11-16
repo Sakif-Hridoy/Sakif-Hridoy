@@ -5,7 +5,7 @@
 Welcome to my GitHub! 
 
 🌟 Web Development Skills:
-I specialize in **HTML5, CSS3, Grid and Flexbox, Responsive Design, Tailwind CSS, Bootstrap, React,Firebase Auth** etc. **I am also comfortable with WordPress,Themes and Plugins uses and customization.I am Familiar with Node.js, Express.js, MongoDB, Firebase Auth, Redux, PHP, MySQL**
+I specialize in **HTML5, CSS3, Grid and Flexbox, Responsive Design, Tailwind CSS, Bootstrap, React.js, Firebase Auth** etc. **I am also comfortable with WordPress,Themes and Plugins uses and customization.I am Familiar with Node.js, Express.js, MongoDB, Firebase Auth, Redux, PHP, MySQL**
 
 🌟 Digital Marketing Skills:
 **SEO (Search Engine Optimization),
