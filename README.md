@@ -111,7 +111,7 @@ A comprehensive digital marketing portfolio showcasing skills in SEO and content
 
 
 ### Project 1: Phone Hunter API
-- **Phone Hunter API allows users to search for phones by brand (Samsung or iPhone) and view a list of models with specifications. After hitting the search button, users can explore specific models, and clicking on a model opens a modal with detailed information about that phone. This is a fully Responsive Website by Tailwind.
+- **Description:** Phone Hunter API allows users to search for phones by brand (Samsung or iPhone) and view a list of models with specifications. After hitting the search button, users can explore specific models, and clicking on a model opens a modal with detailed information about that phone. This is a fully Responsive Website by Tailwind.
 - **Tech Stack:** HTML, CSS, Javascript, Tailwind CSS, API integration, DOM Manipulation
 - **Live Demo:** [Link to live project](https://creative-pudding-caa897.netlify.app)
 - **Repo:** [GitHub Repo](https://github.com/Sakif-Hridoy/phone-huntier-api)
