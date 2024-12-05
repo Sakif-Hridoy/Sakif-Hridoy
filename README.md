@@ -24,10 +24,10 @@ Conversion Rate Optimization (CRO) etc.**
 **I am continuously learning and expanding** my skills in **PHP and WordPress development, Typescript, Framer Motion, Next JS, Redux, Backend Technologies like Laravel and MySQL, GraphQL, Postgresql Databases,Mongoose, Microservices, Socket Programming etc.**
 **I am also currently learning Advanced eCommerce SEO (for platforms like Amazon, Walmart, Shopify), Google Ads (PPC campaigns), Google Display Network (GDN), Google My Business (GMB), YouTube Ads, Email Marketing etc.**
 
-I'm passionate about **tech innovation** and love creating optimized, user-friendly web applications.
+I'm passionate about **tech innovation** and love to create optimized, user-friendly web applications.
 
 
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/sakif-hridoy) and check out my **skills and projects!**
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/sakif-hridoy) and check out my **skills and projects** here.
 
 ---
 
@@ -111,7 +111,7 @@ A comprehensive digital marketing portfolio showcasing skills in SEO and content
 
 ### Project 1: Phone Hunter API
 - **Phone Hunter API allows users to search for phones by brand (Samsung or iPhone) and view a list of models with specifications. After hitting the search button, users can explore specific models, and clicking on a model opens a modal with detailed information about that phone.
-- **Tech Stack:** HTML, CSS, Javascript, Tailwind CSS, API integration,DOM Manipulation
+- **Tech Stack:** HTML, CSS, Javascript, Tailwind CSS, API integration, DOM Manipulation
 - **Live Demo:** [Link to live project](https://creative-pudding-caa897.netlify.app)
 - **Repo:** [GitHub Repo](https://github.com/Sakif-Hridoy/phone-huntier-api)
 
@@ -137,7 +137,7 @@ A comprehensive digital marketing portfolio showcasing skills in SEO and content
 
 ### Project 5: Fancy Slider
 - **Description:** Fancy Slider is an interactive web application that allows users to input names of beautiful creatures, such as rivers, nature, or flowers, to retrieve a list of corresponding images. Users can select multiple images, set a duration for the slider, and create a custom slider with the selected images, providing a visually appealing presentation.
-- **Tech Stack:** HTML, CSS, JavaScript, DOM Manipulation,CSS Grid and Flexbox
+- **Tech Stack:** HTML, CSS, JavaScript, DOM Manipulation, CSS Grid and Flexbox
 - **Image Handling:** REST API or other libraries for fetching images.
 - **Live Demo:** [Link to live project](https://sakif-hridoy.github.io/fancy-slider)
 - **Repo:** [GitHub Repo](https://github.com/Sakif-Hridoy/fancy-slider)
