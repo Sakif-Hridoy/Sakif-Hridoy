@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Sakif Dewan
 
-🌟 **Front-end Web Developer & Digital Marketing Expert**
+🌟 **Front-End Web Developer & Digital Marketing Expert**
 
 Welcome to my GitHub! 
 
