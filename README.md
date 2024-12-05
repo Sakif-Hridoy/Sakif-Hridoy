@@ -106,44 +106,45 @@ A comprehensive digital marketing portfolio showcasing skills in SEO and content
 
 
 
+
 ### 🌐 Web Developer Projects
 
 
 ### Project 1: Phone Hunter API
-- **Phone Hunter API allows users to search for phones by brand (Samsung or iPhone) and view a list of models with specifications. After hitting the search button, users can explore specific models, and clicking on a model opens a modal with detailed information about that phone.
+- **Phone Hunter API allows users to search for phones by brand (Samsung or iPhone) and view a list of models with specifications. After hitting the search button, users can explore specific models, and clicking on a model opens a modal with detailed information about that phone. This is a fully Responsive Website by Tailwind.
 - **Tech Stack:** HTML, CSS, Javascript, Tailwind CSS, API integration, DOM Manipulation
 - **Live Demo:** [Link to live project](https://creative-pudding-caa897.netlify.app)
 - **Repo:** [GitHub Repo](https://github.com/Sakif-Hridoy/phone-huntier-api)
 
 
 ### Project 2: Donation Campaign
-- **Description:** The Donation Campaign site enables users to search for specific donation categories easily. Upon entering a category, users can view related donation options. Additionally, the site features a statistics page showcasing infographic charts that present various statistical data visually.
+- **Description:** The Donation Campaign site enables users to search for specific donation categories easily. Upon entering a category, users can view related donation options. Additionally, the site features a statistics page showcasing infographic charts that present various statistical data visually. This Website also have Responsiveness.
 - **Tech Stack:** HTML, CSS, JavaScript, Tailwind CSS, DaisyUI,React, Pie Chart
 - **Live Demo:** [Link to live project](https://visionary-taffy-106e75.netlify.app)
 - **Repo:** [GitHub Repo](https://github.com/Sakif-Hridoy/donation-campaign)
 
 ### Project 3: Event Management
-- **Description:** A simple, user-friendly platform for a real estate company to showcase its projects and service categories. Users can register or sign in using their email or Google accounts, thanks to Firebase Authentication integration.
+- **Description:** A simple, responsive, user-friendly platform for a real estate company to showcase its projects and service categories. Users can register or sign in using their email or Google accounts, thanks to Firebase Authentication integration.
 - **Tech Stack:** HTML, CSS, JavaScript, Tailwind CSS, React
 - **Authentication & Database:** Firebase Authentication
 - **Live Demo:** [Link to live project](https://event-management-61852.web.app)
 - **Repo:** [GitHub Repo](https://github.com/Sakif-Hridoy/event-management)
 
 ### Project 4: Biker Zone
-- **Description:** Biker Zone is a simple, visually engaging bike-related website with a clean UI. It features sliders and image cards to showcase bike-related content and images effectively.
+- **Description:** Biker Zone is a simple, visually engaging, responsive bike-related website with a clean Responsive UI. It features sliders and image cards to showcase bike-related content and images effectively.
 - **Tech Stack:** HTML, CSS, JavaScript, Tailwind CSS, DaisyUI
 - **Live Demo:** [Link to live project](https://sakif-hridoy.github.io/Biker-Zone-Daisy-UI)
 - **Repo:** [GitHub Repo](https://github.com/Sakif-Hridoy/Biker-Zone-Daisy-UI)
 
 ### Project 5: Fancy Slider
-- **Description:** Fancy Slider is an interactive web application that allows users to input names of beautiful creatures, such as rivers, nature, or flowers, to retrieve a list of corresponding images. Users can select multiple images, set a duration for the slider, and create a custom slider with the selected images, providing a visually appealing presentation.
+- **Description:** Fancy Slider is an interactive web application that allows users to input names of beautiful creatures, such as rivers, nature, or flowers, to retrieve a list of corresponding images. Users can select multiple images, set a duration for the slider, and create a custom slider with the selected images, providing a visually appealing presentation. None But Responsive.
 - **Tech Stack:** HTML, CSS, JavaScript, DOM Manipulation, CSS Grid and Flexbox
 - **Image Handling:** REST API or other libraries for fetching images.
 - **Live Demo:** [Link to live project](https://sakif-hridoy.github.io/fancy-slider)
 - **Repo:** [GitHub Repo](https://github.com/Sakif-Hridoy/fancy-slider)
 
 ### Project 6: Weather Update
-- **Description:** A user-friendly website that delivers real-time weather updates. Users can enter any city name worldwide to instantly view the current temperature along with weather icons for visual representation.
+- **Description:** A user-friendly website that delivers real-time weather updates. Users can enter any city name worldwide to instantly view the current temperature along with weather icons for visual representation. None But Responsive.
 - **Tech Stack:** HTML, CSS, JavaScript, DOM Manipulation, Flexbox, Rest API
 - **Live Demo:** [Link to live project](https://sakif-hridoy.github.io/weatherupdate/)
 - **Repo:** [GitHub Repo](https://github.com/Sakif-Hridoy/weatherupdate)
