@@ -92,7 +92,7 @@ Here are some of my top projects showcasing my skills in **front-end development
 ### 🌐 SEO & Digital Marketing Project
 
 ### Project: Wordpress Portfolio Project
-A comprehensive digital marketing portfolio showcasing skills in SEO and content optimization. This WordPress-based project includes keyword research, on-page SEO, off-page seo, data driven marketing/decision and content strategies tailored to improve search visibility and user engagement. Tools like SEMRUSH, Rank Math, and Yoast SEO were utilized, along with Google Analytics for performance tracking.
+A comprehensive digital marketing portfolio showcasing skills in SEO and content optimization. This WordPress-based project includes keyword research, on-page SEO, off-page seo, data driven marketing/decision and content strategies tailored to improve search visibility and user engagement. Tools like SEMRUSH, Rank Math, and Yoast SEO were utilized along with Google Analytics for performance tracking.
 
 **Tech Stack:** Wordpress
 - **Main Keyword:** - sakif dewan, digial marketing specialist etc.
