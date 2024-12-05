@@ -5,7 +5,7 @@
 Welcome to my GitHub! 
 
 🌟 Web Development Skills:
-I specialize in **HTML5, CSS3, Grid and Flexbox, Responsive Design, Tailwind CSS, Bootstrap, CDN's, React.js, Firebase Auth** etc. **I am also comfortable with WordPress,Themes and Plugins uses and customization.I am Familiar with Node.js, Express.js, MongoDB, Firebase Auth, Redux, PHP, MySQL**
+I specialize in **HTML5, CSS3, Grid and Flexbox, Responsive Design, Tailwind CSS, Bootstrap, CDN's, React.js, Firebase Auth** etc. **I am also comfortable with WordPress,Themes and Plugins uses and customization.I am Familiar with Node.js, Express.js, MongoDB, Firebase Auth, Redux, PHP, MySQL.**
 
 🌟 Digital Marketing Skills:
 **SEO (Search Engine Optimization),
@@ -95,11 +95,11 @@ Here are some of my top projects showcasing my skills in **front-end development
 A comprehensive digital marketing portfolio showcasing skills in SEO and content optimization. This WordPress-based project includes keyword research, on-page SEO, off-page seo, data driven marketing/decision and content strategies tailored to improve search visibility and user engagement. Tools like SEMRUSH, Rank Math, and Yoast SEO were utilized, along with Google Analytics for performance tracking.
 
 **Tech Stack:** Wordpress
-- **Main Keyword:** - sakif dewan, digial marketing specialist
+- **Main Keyword:** - sakif dewan, digial marketing specialist etc.
 
 ### Tools & Skills:
-- **SEO & Marketing Tools:** SEMRUSH, Rank Math, Yoast SEO, Google Analytics, Google Trends, Google Tag Manager, Facebook Pixel, Facebook Conversion API
-- **Skills Applied:** SEO, On Page SEO, Off Page SEO, Technical SEO, Keyword Analysis, Content Optimization, Wordpress Plugins Customization, Data Driven Marketing and Analysis
+- **SEO & Marketing Tools:** SEMRUSH, Rank Math, Yoast SEO, Google Analytics, Google Trends, Google Tag Manager, Facebook Pixel, Facebook Conversion API.
+- **Skills Applied:** SEO, On Page SEO, Off Page SEO, Technical SEO, Keyword Analysis, Content Optimization, Wordpress Plugins Customization, Data Driven Marketing and Analysis.
 - **Live:** [Link to live project](https://sakifdewan.com)
 
 
@@ -118,33 +118,33 @@ A comprehensive digital marketing portfolio showcasing skills in SEO and content
 
 ### Project 2: Donation Campaign
 - **Description:** The Donation Campaign site enables users to search for specific donation categories easily. Upon entering a category, users can view related donation options. Additionally, the site features a statistics page showcasing infographic charts that present various statistical data visually.
-- **Tech Stack:** HTML, CSS, JavaScript, Tailwind CSS, DaisyUI,React, Pie Chart.
+- **Tech Stack:** HTML, CSS, JavaScript, Tailwind CSS, DaisyUI,React, Pie Chart
 - **Live Demo:** [Link to live project](https://visionary-taffy-106e75.netlify.app)
 - **Repo:** [GitHub Repo](https://github.com/Sakif-Hridoy/donation-campaign)
 
 ### Project 3: Event Management
 - **Description:** A simple, user-friendly platform for a real estate company to showcase its projects and service categories. Users can register or sign in using their email or Google accounts, thanks to Firebase Authentication integration.
-- **Tech Stack:** HTML, CSS, JavaScript, Tailwind CSS, React.
+- **Tech Stack:** HTML, CSS, JavaScript, Tailwind CSS, React
 - **Authentication & Database:** Firebase Authentication
 - **Live Demo:** [Link to live project](https://event-management-61852.web.app)
 - **Repo:** [GitHub Repo](https://github.com/Sakif-Hridoy/event-management)
 
 ### Project 4: Biker Zone
 - **Description:** Biker Zone is a simple, visually engaging bike-related website with a clean UI. It features sliders and image cards to showcase bike-related content and images effectively.
-- **Tech Stack:** HTML, CSS, JavaScript, Tailwind CSS, DaisyUI.
+- **Tech Stack:** HTML, CSS, JavaScript, Tailwind CSS, DaisyUI
 - **Live Demo:** [Link to live project](https://sakif-hridoy.github.io/Biker-Zone-Daisy-UI)
 - **Repo:** [GitHub Repo](https://github.com/Sakif-Hridoy/Biker-Zone-Daisy-UI)
 
 ### Project 5: Fancy Slider
 - **Description:** Fancy Slider is an interactive web application that allows users to input names of beautiful creatures, such as rivers, nature, or flowers, to retrieve a list of corresponding images. Users can select multiple images, set a duration for the slider, and create a custom slider with the selected images, providing a visually appealing presentation.
-- **Tech Stack:** HTML, CSS, JavaScript, DOM Manipulation,CSS Grid and Flexbox.
+- **Tech Stack:** HTML, CSS, JavaScript, DOM Manipulation,CSS Grid and Flexbox
 - **Image Handling:** REST API or other libraries for fetching images.
 - **Live Demo:** [Link to live project](https://sakif-hridoy.github.io/fancy-slider)
 - **Repo:** [GitHub Repo](https://github.com/Sakif-Hridoy/fancy-slider)
 
 ### Project 6: Weather Update
-- **Description:** A user-friendly website that delivers real-time weather updates. Users can enter any city name worldwide to instantly view the current temperature along with weather icons for visual representation
-- **Tech Stack:** HTML, CSS, JavaScript, DOM Manipulation, Flexbox, Rest API.
+- **Description:** A user-friendly website that delivers real-time weather updates. Users can enter any city name worldwide to instantly view the current temperature along with weather icons for visual representation.
+- **Tech Stack:** HTML, CSS, JavaScript, DOM Manipulation, Flexbox, Rest API
 - **Live Demo:** [Link to live project](https://sakif-hridoy.github.io/weatherupdate/)
 - **Repo:** [GitHub Repo](https://github.com/Sakif-Hridoy/weatherupdate)
 
@@ -152,9 +152,9 @@ A comprehensive digital marketing portfolio showcasing skills in SEO and content
 
 ## 📚 Currently Learning
 
-- PHP and WordPress development,Typescript, Framer Motion, Next JS, Redux
-- Backend Technologies like Django, Laravel and MySQL, GraphQL, Postgresql Databases, Mongoose, Microservices
-- Advanced eCommerce SEO (for platforms like Amazon, Walmart, Shopify), Google Ads (PPC campaigns), Google Display Network (GDN), Google My Business, YouTube Ads, Email Marketing
+- PHP and WordPress development,Typescript, Framer Motion, Next JS, Redux etc.
+- Backend Technologies like Laravel and MySQL, GraphQL, Postgresql Databases, Mongoose, Microservices, Socket Programming etc.
+- Advanced eCommerce SEO (for platforms like Amazon, Walmart, Shopify), Google Ads (PPC campaigns), Google Display Network (GDN), Google My Business, YouTube Ads, Email Marketing etc.
 
 ---
 
