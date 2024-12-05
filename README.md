@@ -131,7 +131,7 @@ A comprehensive digital marketing portfolio showcasing skills in SEO and content
 - **Repo:** [GitHub Repo](https://github.com/Sakif-Hridoy/event-management)
 
 ### Project 4: Biker Zone
-- **Description:** Biker Zone is a simple, visually engaging, responsive bike-related website with a clean Responsive UI. It features sliders and image cards to showcase bike-related content and images effectively.
+- **Description:** Biker Zone is a simple, visually engaging, responsive, bike-related website with a clean Responsive UI. It features sliders and image cards to showcase bike-related content and images effectively.
 - **Tech Stack:** HTML, CSS, JavaScript, Tailwind CSS, DaisyUI
 - **Live Demo:** [Link to live project](https://sakif-hridoy.github.io/Biker-Zone-Daisy-UI)
 - **Repo:** [GitHub Repo](https://github.com/Sakif-Hridoy/Biker-Zone-Daisy-UI)
