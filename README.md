@@ -5,7 +5,7 @@
 Welcome to my GitHub! 
 
 🌟 Web Development Skills:
-I specialize in **HTML5, CSS3, Grid and Flexbox, Responsive Design, Tailwind CSS, Bootstrap, React.js, Firebase Auth** etc. **I am also comfortable with WordPress,Themes and Plugins uses and customization.I am Familiar with Node.js, Express.js, MongoDB, Firebase Auth, Redux, PHP, MySQL**
+I specialize in **HTML5, CSS3, Grid and Flexbox, Responsive Design, Tailwind CSS, Bootstrap, CDN's, React.js, Firebase Auth** etc. **I am also comfortable with WordPress,Themes and Plugins uses and customization.I am Familiar with Node.js, Express.js, MongoDB, Firebase Auth, Redux, PHP, MySQL**
 
 🌟 Digital Marketing Skills:
 **SEO (Search Engine Optimization),
@@ -18,7 +18,10 @@ Google Analytics,
 PPC (Pay-Per-Click) Advertising,
 Conversion Rate Optimization (CRO) etc.**
 
-**I am continuously learning and expanding** my skills in **PHP and WordPress development, Typescript, Framer Motion, Next JS, Redux, Backend Technologies like Django, Laravel and MySQL, GraphQL, Postgresql Databases,Mongoose, Microservices etc.**
+🌟 Interpersonal Skills: **Team Work, Team Collaboration, Team Lead, Quick Learner, Quickly Adaptive, Maintaining Deadlines & Time Management, Ensuring Quality on Demand etc.**
+
+
+**I am continuously learning and expanding** my skills in **PHP and WordPress development, Typescript, Framer Motion, Next JS, Redux, Backend Technologies like Laravel and MySQL, GraphQL, Postgresql Databases,Mongoose, Microservices, Socket Programming etc.**
 **I am also currently learning Advanced eCommerce SEO (for platforms like Amazon, Walmart, Shopify), Google Ads (PPC campaigns), Google Display Network (GDN), Google My Business (GMB), YouTube Ads, Email Marketing etc.**
 
 I'm passionate about **tech innovation** and love creating optimized, user-friendly web applications.
