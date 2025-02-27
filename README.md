@@ -19,7 +19,7 @@
 - Authentication & Security: JWT, OAuth, Firebase Auth  
 
 ### ⚡ Other Tools  
-- Git/GitHub, Firebase, Postman, Webpack, Redux  
+- Git/GitHub, Vercel, Firebase, Postman, Webpack, Redux  
 - CI/CD, Linux CLI  
 
 ## 🎯 Goals  
