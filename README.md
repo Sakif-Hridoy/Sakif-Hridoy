@@ -2,7 +2,7 @@
 
 🚀 **Driven Backend Enthusiast | Proficient Frontend Developer**  
 🔹 Passionate about architecting scalable and high-performance web applications  
-🔹 Skilled in **React, Node.js, Express.js,MongoDB,Mongoose,MySQL, PostgreSQL,Microservices,Sockets,Tailwind CSS, Restful APIs**  
+🔹 Skilled in **React, Node.js, Express.js, MongoDB, Mongoose, MySQL, PostgreSQL, Microservices, Sockets, Tailwind CSS, Restful APIs**  
 🔹 Experienced in **SEO, WordPress, and Digital Marketing**  
 🔹 Currently advancing in **MERN Stack, System Design & Scalable Backend Solutions**  
 🔹 Open to remote job opportunities and collaborations  
