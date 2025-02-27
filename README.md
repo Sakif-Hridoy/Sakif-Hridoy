@@ -13,7 +13,7 @@
 - React.js, Next.js, Tailwind CSS, Bootstrap, HTML, CSS, JavaScript  
 
 ### 🛠 Backend  
-- Node.js, Express.js, MongoDB,Mongoose, MySQL, RESTful APIs,Microservices   
+- Node.js, Express.js, MongoDB, Mongoose, MySQL, RESTful APIs, Microservices   
 - Redis (caching), WebSockets (real-time communication), WebRTC (peer-to-peer communication)  
 - Multi-threading, Worker Threads, Message Queues (RabbitMQ, Kafka)  
 - Authentication & Security: JWT, OAuth, Firebase Auth  
