@@ -1,13 +1,13 @@
 # 💻 Sakif Dewan Hridoy | Full-Stack Developer (MERN)
 
-🚀 **Driven Backend Enthusiast | Proficient Frontend Developer**
+🚀 **Driven Backend Enthusiast | Proficient Frontend Developer**  
+🔹 Passionate about architecting scalable and high-performance web applications  
+🔹 Skilled in **React, Node.js, Express.js, MongoDB, Tailwind CSS, Restful APIs**  
+🔹 Currently learning **Mongoose, MySQL, PostgreSQL, Microservices, Sockets**  
+🔹 Experienced in **SEO, WordPress, and Digital Marketing**  
+🔹 Currently advancing in **MERN Stack, System Design & Scalable Backend Solutions**  
+🔹 Open to onsite/remote job opportunities and collaborations
 
-- 🔹 Passionate about architecting scalable and high-performance web applications  
-- 🔹 Skilled in **React, Node.js, Express.js, MongoDB, Tailwind CSS, Restful APIs**  
-- 🔹 Currently learning **Mongoose, MySQL, PostgreSQL, Microservices, Sockets**  
-- 🔹 Experienced in **SEO, WordPress, and Digital Marketing**  
-- 🔹 Currently advancing in **MERN Stack, System Design & Scalable Backend Solutions**  
-- 🔹 Open to onsite/remote job opportunities and collaborations
  
 
 ## 📌 Tech Stack  
