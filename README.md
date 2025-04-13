@@ -11,10 +11,10 @@
 ## 📌 Tech Stack  
 
 ### 🚀 Frontend  
-- React.js, Next.js, Tailwind CSS, Bootstrap, HTML, CSS, JavaScript  
+- React.js, Tailwind CSS, Bootstrap, HTML, CSS, JavaScript  
 
 ### 🛠 Backend  
-- Node.js, Express.js, MongoDB, Mongoose, MySQL, RESTful APIs, Microservices    
+- Node.js, Express.js, MongoDB, MySQL, RESTful APIs, Microservices    
 - Authentication & Security: JWT, OAuth, Firebase Auth  
 
 ### ⚡ Other Tools  
