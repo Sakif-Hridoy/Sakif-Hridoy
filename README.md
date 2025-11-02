@@ -45,16 +45,13 @@
 ### Digital Marketing
 - SEO, Google Analytics, WordPress Tools, HubSpot, Facebook Ads (Beginner Level)
 
-## 🌐 WordPress Experience  
+## WordPress 
 
 As a fresher WordPress developer, I have hands-on experience working with different aspects of WordPress development:
 
-- Customized and maintained WordPress sites using a variety of **themes** (free & premium).
-- Built layouts using **Elementor**, **WPBakery** page builders.
-- Managed **menus, widgets, mega menus**, and created dynamic page structures.
-- Installed and configured essential **plugins** including SEO, backups, forms, and caching tools.
-- Managed **content updates**, backups, and site migrations using tools like **UpdraftPlus** and **All-in-One WP Migration**.
-- Optimized websites for **mobile responsiveness**, speed, and user experience.
+- Theme Customization, Speed Optimization, Page Builders, Mostly used Plugins Setup & Customization, Content Management, SEO basics
+- Proficient in Installing and Configuring essential **plugins** including Page Builders & UI, SEO & Analytics, Caching & Performance, Backup & Restore, Security, E-commerce, Forms & Lead Generation, Email Marketing & Popups, Social Sharing & Engagement.
+
 
 
 ## 🎯 Goals  
