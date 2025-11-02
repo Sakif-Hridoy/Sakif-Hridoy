@@ -34,7 +34,7 @@ As a Promising and Passioniate WordPress developer, I have hands-on experience w
 - VS Code, Chrome Dev Tools
 
 ### Version Control, Collaboration & Deployment tools
-- Git/GitHub, Postman, Vercel, Netlify, Render, Linux CLI
+- Git/GitHub, CI/CD Pipeline, Postman, Vercel, Netlify, Render, Linux CLI
 
 ### Hosting & Server Management
 - cPanel
