@@ -1,24 +1,24 @@
-# 💻 Sakif Dewan Hridoy | Full-Stack Developer (MERN)
+# Sakif Dewan Hridoy | Full-Stack Developer (MERN)
 
-🚀 **Driven Backend Enthusiast | Proficient Frontend Developer**  
+ **Driven Backend Enthusiast | Proficient Frontend Developer**  
 🔹 Passionate about architecting scalable and high-performance web applications  
 🔹 Skilled in **React JS, Next JS, TypeScript, Redux Toolkit, Tailwind CSS, Shadcn/ui, Framer Motion, Node.js, Express.js, MongoDB, Mongoose, MySQL, Restful APIs, Microservices, WebSockets, Wordpress**  
-🔹 Currently learning **Mongoose, PHP, MySQL, PostgreSQL, Microservices, Sockets**  
+🔹 Currently learning **Mongoose, PHP, MySQL, GraphQL, Prisma, PostgreSQL, Microservices, Sockets**  
 🔹 Experienced in **WordPress, WordPress Themes and Customization**  
 🔹 Currently advancing in **MERN Stack, Next JS System Design & Scalable Backend Solutions**  
 🔹 Open to onsite/remote job opportunities and collaborations  
 
-##  Tech Stack  
+## 🌐 Tech Stack  
 
 ###  Frontend  
 - React.js, Next JS, Context API, Redux Toolkit, Shadcn/ui, Tailwind CSS, GSAP, Framer Motion, Bootstrap, JavaScript, HTML5, CSS3
 
 ###  Backend  
-- Node.js, Express.js, TypeScript, MongoDB, Mongoose, MySQL, REST APIs, Microservices, WebSockets  
+- Node.js, Express.js, TypeScript, MongoDB, Mongoose, MySQL, PostgreSQL, Prisma, GraphQL, REST APIs, Microservices, WebSockets  
 - Auth Systems and Security Tools: JWT, NextAuth.js, OAuth 2.0, Firebase Auth, Helmet.js, bcrypt
 
 ###  WordPress
-- Theme Customization, Speed Optimization, Elementor, Widgets, WPBakery, Mostly used Plugins Setup & Customization, Content Management, SEO basics
+- Theme Customization, Speed Optimization, Elementor, Widgets, WPBakery, All Usefull Plugins Setup & Customization, Content Management, SEO basics
 
 ###  AI Companion
 - ChatGPT, V0 by Vercel, Claude.ai
