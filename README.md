@@ -30,6 +30,9 @@ As a Promising and Passioniate WordPress developer, I have hands-on experience w
 ###  AI Companion
 - ChatGPT, V0 by Vercel, Claude.ai
 
+### Debug & Developer Tools
+- VS Code, Chrome Dev Tools
+
 ### Version Control, Collaboration & Deployment tools
 - Git/GitHub, Postman, Vercel, Netlify, Render, Linux CLI
 
