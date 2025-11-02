@@ -6,7 +6,7 @@
 🔹 Passionate about architecting scalable and high-performance web applications  
 🔹 Skilled in **JavaScript, PHP, React JS, Next JS, TypeScript, Redux Toolkit, Tailwind CSS, Shadcn/ui, Framer Motion, Node.js, Express.js, MongoDB,
     Mongoose, MySQL, Restful APIs, Microservices, WebSockets, Wordpress**  
-🔹 Currently learning **AWS, Docker, Nginx, Mongoose, MySQL, GraphQL, Prisma, PostgreSQL, Microservices, Sockets**  
+🔹 Currently learning **AWS, Docker, Nginx, Mongoose, PHP, MySQL, GraphQL, Prisma, PostgreSQL, Microservices, Sockets**  
 🔹 Experienced in **WordPress, WordPress Themes and Plugins Customization**  
 🔹 Currently advancing in **MERN Stack, Next JS System Design & Scalable Backend Solutions**  
 🔹 Open to onsite/remote job opportunities and collaborations  
