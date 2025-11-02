@@ -2,24 +2,47 @@
 
 🚀 **Driven Backend Enthusiast | Proficient Frontend Developer**  
 🔹 Passionate about architecting scalable and high-performance web applications  
-🔹 Skilled in **React, Node.js, Express.js, MongoDB, Tailwind CSS, Restful APIs**  
+🔹 Skilled in **React JS, Next JS, TypeScript, Redux Toolkit, Tailwind CSS, Shadcn/ui, Framer Motion, Node.js, Express.js, MongoDB, Mongoose, MySQL, Restful APIs, Microservices, WebSockets, Wordpress**  
 🔹 Currently learning **Mongoose, PHP, MySQL, PostgreSQL, Microservices, Sockets**  
 🔹 Experienced in **WordPress, WordPress Themes and Customization**  
-🔹 Currently advancing in **MERN Stack, System Design & Scalable Backend Solutions**  
+🔹 Currently advancing in **MERN Stack, Next JS System Design & Scalable Backend Solutions**  
 🔹 Open to onsite/remote job opportunities and collaborations  
 
-## 📌 Tech Stack  
+##  Tech Stack  
 
-### 🚀 Frontend  
-- React.js, Tailwind CSS, Bootstrap, HTML, CSS, JavaScript  
+###  Frontend  
+- React.js, Next JS, Context API, Redux Toolkit, Shadcn/ui, Tailwind CSS, GSAP, Framer Motion, Bootstrap, JavaScript, HTML5, CSS3
 
-### 🛠 Backend  
-- Node.js, Express.js, MongoDB, MySQL, RESTful APIs, Microservices    
-- Authentication & Security: JWT, OAuth, Firebase Auth  
+###  Backend  
+- Node.js, Express.js, TypeScript, MongoDB, Mongoose, MySQL, REST APIs, Microservices, WebSockets  
+- Auth Systems and Security Tools: JWT, NextAuth.js, OAuth 2.0, Firebase Auth, Helmet.js, bcrypt
 
-### ⚡ Other Tools  
-- Git/GitHub, Vercel, Netlify, Render, Firebase, Postman  
-- Linux CLI  
+###  WordPress
+- Theme Customization, Speed Optimization, Elementor, Widgets, WPBakery, Mostly used Plugins Setup & Customization, Content Management, SEO basics
+
+###  AI Companion
+- ChatGPT, V0 by Vercel, Claude.ai
+
+### Version Control, Collaboration & Deployment tools
+- Git/GitHub, Postman, Vercel, Netlify, Render, Linux CLI
+
+### Hosting & Server Management
+- cPanel
+
+### API Testing
+- Postman
+
+### Project Management & Productivity
+- ClickUp, Asana, Jira, Notion
+
+### Team Communication & Collaboration
+- Slack
+
+### Competitive Programming and Problem Solving
+- freecodecamp, HackerRank, LeetCode, Data Structures & Algorithms
+
+### Digital Marketing
+- SEO, Google Analytics, WordPress Tools, HubSpot, Facebook Ads (Beginner Level)
 
 ## 🌐 WordPress Experience  
 
@@ -32,16 +55,13 @@ As a fresher WordPress developer, I have hands-on experience working with differ
 - Managed **content updates**, backups, and site migrations using tools like **UpdraftPlus** and **All-in-One WP Migration**.
 - Optimized websites for **mobile responsiveness**, speed, and user experience.
 
-🔗 **Project:** [Personal Portfolio & Blog (WordPress)](https://sakifdewan.com)  
-🧩 Tools Used: Elementor, Yoast SEO, WPForms, UpdraftPlus etc. 
-📌 Description: A custom WordPress site built for my personal branding, portfolio showcase, and blogging. Features include contact form, SEO optimization, and a responsive design.
 
 ## 🎯 Goals  
 ✔ Improve problem-solving (LeetCode & FreeCodeCamp)  
 ✔ Build open-source projects and contribute to GitHub  
 ✔ Master backend architecture, microservices, and DevOps  
 
-## 🏆 FreeCodeCamp Certifications  
+## 🏆 FreeCodecamp Certifications  
 
 📗 [Responsive Web Design](https://www.freecodecamp.org/certification/sakif-hridoy/responsive-web-design)  
 📘 [JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/certification/sakif-hridoy/javascript-algorithms-and-data-structures)  
