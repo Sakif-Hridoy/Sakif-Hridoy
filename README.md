@@ -1,6 +1,6 @@
 # Sakif Dewan Hridoy | Full-Stack Developer (MERN)
 
-💼 ***Open to Full-Stack or Backend Developer roles, remote/onsite opportunities, and collaborations. Always excited to solve real-world problems with efficient and scalable code.***
+💼 ***Open to Full-Stack or Frontend/Backend Developer roles, remote/onsite opportunities, and collaborations. Always excited to solve real-world problems with efficient and scalable code.***
 
  **Driven Backend Enthusiast | Proficient Frontend Developer**  
 🔹 Passionate about architecting scalable and high-performance web applications  
