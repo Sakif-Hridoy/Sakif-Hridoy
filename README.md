@@ -52,7 +52,7 @@ As a Promising and Passioniate WordPress developer, I have hands-on experience w
 - freecodecamp, HackerRank, LeetCode, Data Structures & Algorithms
 
 ### Digital Marketing
-- SEO, Google Analytics, WordPress Tools, HubSpot, Facebook Ads (Beginner Level)
+- SEO, Google Analytics, WordPress Tools, HubSpot, Meta Business Suite
 
 ## 🎯 Goals  
 ✔ Improve problem-solving (LeetCode & FreeCodeCamp)  
