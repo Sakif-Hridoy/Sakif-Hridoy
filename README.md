@@ -1,5 +1,7 @@
 # Sakif Dewan Hridoy | Full-Stack Developer (MERN)
 
+💼 ***Open to Full-Stack or Backend Developer roles, remote/onsite opportunities, and collaborations. Always excited to solve real-world problems with efficient and scalable code.***
+
  **Driven Backend Enthusiast | Proficient Frontend Developer**  
 🔹 Passionate about architecting scalable and high-performance web applications  
 🔹 Skilled in **React JS, Next JS, TypeScript, Redux Toolkit, Tailwind CSS, Shadcn/ui, Framer Motion, Node.js, Express.js, MongoDB,
@@ -49,8 +51,8 @@
 
 As a fresher WordPress developer, I have hands-on experience working with different aspects of WordPress development:
 
-- Theme Customization, Speed Optimization, Page Builders, Mostly used Plugins Setup & Customization, Content Management, SEO basics
-- Proficient in Installing and Configuring essential **plugins** including Page Builders & UI, SEO & Analytics, Caching & Performance, Backup & Restore, Security, E-commerce, Forms & Lead Generation, Email Marketing & Popups, Social Sharing & Engagement.
+- Theme Customization, Speed Optimization, Page Builders, Usefull Plugins Setup & Customization, Content Management, SEO basics to Moderate
+- Proficient in Installing and Configuring essential **Plugins** including Page Builders & UI, SEO & Analytics, Caching & Performance, Backup & Restore, Security, E-commerce, Forms & Lead Generation, Email Marketing & Popups, Social Sharing & Engagement.
 
 
 
