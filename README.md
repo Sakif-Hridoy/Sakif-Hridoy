@@ -4,9 +4,9 @@
 
  **Driven Backend Enthusiast | Proficient Frontend Developer**  
 🔹 Passionate about architecting scalable and high-performance web applications  
-🔹 Skilled in **React JS, Next JS, TypeScript, Redux Toolkit, Tailwind CSS, Shadcn/ui, Framer Motion, Node.js, Express.js, MongoDB,
+🔹 Skilled in **JavaScript, PHP, React JS, Next JS, TypeScript, Redux Toolkit, Tailwind CSS, Shadcn/ui, Framer Motion, Node.js, Express.js, MongoDB,
     Mongoose, MySQL, Restful APIs, Microservices, WebSockets, Wordpress**  
-🔹 Currently learning **Mongoose, PHP, MySQL, GraphQL, Prisma, PostgreSQL, Microservices, Sockets**  
+🔹 Currently learning **AWS, Docker, Nginx, Mongoose, MySQL, GraphQL, Prisma, PostgreSQL, Microservices, Sockets**  
 🔹 Experienced in **WordPress, WordPress Themes and Plugins Customization**  
 🔹 Currently advancing in **MERN Stack, Next JS System Design & Scalable Backend Solutions**  
 🔹 Open to onsite/remote job opportunities and collaborations  
@@ -20,8 +20,12 @@
 - Node.js, Express.js, JavaScript, PHP, TypeScript, MongoDB, Mongoose, MySQL, PostgreSQL, Prisma, GraphQL, REST APIs, Microservices, WebSockets  
 - Auth Systems and Security Tools: JWT, NextAuth.js, OAuth 2.0, Firebase Auth, Helmet.js, bcrypt
 
-###  WordPress
-- Theme Customization, Theme Development, Speed Optimization, Elementor, Widgets, WPBakery, All Usefull Plugins Setup & Customization, Content Management, SEO basics
+##  WordPress 
+
+As a Promising and Passioniate WordPress developer, I have hands-on experience working with different aspects of WordPress development & customization:
+
+- Theme Customization, Theme Development, Speed Optimization, Usefull Plugins Setup & Customization, Widgets Customization, Content Management, SEO basics to Advance
+- Proficient in Installing and Configuring essential **Plugins** including Page Builders & UI, SEO & Analytics, Caching & Performance, Backup & Restore, Security, E-commerce, Forms & Lead Generation, Email Marketing & Popups, Social Sharing & Engagement.
 
 ###  AI Companion
 - ChatGPT, V0 by Vercel, Claude.ai
@@ -46,15 +50,6 @@
 
 ### Digital Marketing
 - SEO, Google Analytics, WordPress Tools, HubSpot, Facebook Ads (Beginner Level)
-
-## WordPress 
-
-As a fresher WordPress developer, I have hands-on experience working with different aspects of WordPress development:
-
-- Theme Customization, Speed Optimization, Page Builders, Usefull Plugins Setup & Customization, Content Management, SEO basics to Moderate
-- Proficient in Installing and Configuring essential **Plugins** including Page Builders & UI, SEO & Analytics, Caching & Performance, Backup & Restore, Security, E-commerce, Forms & Lead Generation, Email Marketing & Popups, Social Sharing & Engagement.
-
-
 
 ## 🎯 Goals  
 ✔ Improve problem-solving (LeetCode & FreeCodeCamp)  
