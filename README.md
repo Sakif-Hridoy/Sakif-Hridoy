@@ -22,7 +22,7 @@
 
 ##  WordPress 
 
-As a Promising and Passioniate WordPress developer, I have hands-on experience working with different aspects of WordPress development & customization:
+As a Promising and Passioniate WordPress developer, I have hands-on experience working with different aspects of WordPress development & customization.
 
 - Theme Customization, Theme Development, Speed Optimization, Usefull Plugins Setup & Customization, Widgets Customization, Content Management, SEO basics to Advance
 - Proficient in Installing and Configuring essential **Plugins** including Page Builders & UI, SEO & Analytics, Caching & Performance, Backup & Restore, Security, E-commerce, Forms & Lead Generation, Email Marketing & Popups, Social Sharing & Engagement.
