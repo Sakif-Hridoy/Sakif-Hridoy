@@ -20,7 +20,8 @@
 - Node.js, Express.js, JavaScript, PHP, TypeScript, MongoDB, Mongoose, MySQL, PostgreSQL, Prisma, GraphQL, REST APIs, Microservices, WebSockets  
 - Auth Systems and Security Tools: JWT, NextAuth.js, OAuth 2.0, Firebase Auth, Helmet.js, bcrypt
 - 
-## Tools: VS CODE, Github, React Native, Firebase
+## Tools
+- VS CODE, Github, React Native, Firebase
 
 ##  WordPress 
 
